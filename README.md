@@ -1,9 +1,10 @@
-## Olá! Eu sou o Thiago Rogato 👋
+## Olá! Eu sou o Tiago Rogato 👋
 
 ### Sobre mim
 💻 **Infraestrutura & Automação** — MikroTik, Zabbix, UniFi, Linux  
 🔐 Segurança de redes, SOC caseiro com IA, bloqueio de ameaças  
-📍 Brasil
+📍 Brasil  
+🔗 GitHub pessoal: [TiagoRogato](https://github.com/TiagoRogato)
 
 ---
 
