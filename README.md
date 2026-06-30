@@ -20,8 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-![TRogato's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRogato&layout=compact&theme=dark&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/TRogato?style=for-the-badge&logo=github&color=black)](https://github.com/TRogato)
+![GitHub stars](https://img.shields.io/github/stars/TRogato?style=for-the-badge&logo=github&color=black)
 
 ---
 
