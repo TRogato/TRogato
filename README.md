@@ -25,5 +25,10 @@
 
 ---
 
+### 🌐 Projetos
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/TiagoRogato/landingpage)
+
+---
+
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.rogato@gmail.com)
